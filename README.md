@@ -1,1 +1,1 @@
-# First-Simple-Project
+# First Project : Simple Stone Paper Scissor Game
