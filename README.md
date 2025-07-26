@@ -24,4 +24,4 @@ Select your choice (1: Stone, 2: Paper, 3: Scissors).
 
 See who wins after each round and the final result.
 
-**Enjoy the game!**
+### **Enjoy the game!**
