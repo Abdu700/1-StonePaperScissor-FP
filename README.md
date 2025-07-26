@@ -6,7 +6,7 @@ This C++ program allows you to play a simple game of Rock, Paper, Scissors again
 
 
 
-**Features:**
+## **Features:**
 
 Play up to 10 rounds.
 
@@ -16,7 +16,7 @@ Displays the winner after each round and the final game result.
 
 
 
-**How to Play:**
+## **How to Play:**
 
 Choose the number of rounds (1 to 10).
 
