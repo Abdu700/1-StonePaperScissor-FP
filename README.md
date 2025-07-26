@@ -5,6 +5,7 @@
 This C++ program allows you to play a simple game of Rock, Paper, Scissors against the computer. You can play multiple rounds and see who wins each round.
 
 
+
 **Features:**
 
 Play up to 10 rounds.
@@ -12,6 +13,7 @@ Play up to 10 rounds.
 Random computer choices.
 
 Displays the winner after each round and the final game result.
+
 
 
 **How to Play:**
